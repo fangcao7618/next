@@ -1,0 +1,86 @@
+import React from "react";
+
+function Tabel() {
+    return (
+        <table className="table_number">
+            <tbody>
+                <tr>
+                    <th>渠道</th>
+                    <th>5月</th>
+                    <th>6月</th>
+                    <th>7月26日</th>
+                    <th>7月27日</th>
+                    <th>7月28日</th>
+                    <th>7月29日</th>
+                    <th>7月30日</th>
+                    <th>7月31日</th>
+                    <th>7月总计</th>
+                </tr>
+            </tbody>
+            <tbody>
+                <tr>
+                    <td>云霄信息</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>虹翼</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>虹翼</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>虹翼</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>虹翼</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                </tr>
+            </tbody>
+        </table>
+    );
+}
+
+export default Tabel;
